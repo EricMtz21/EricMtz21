@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hi 👋, I'm → Eric Martinez</h1>
+<h1 data-importer="text" align="left">Hi 👋, I'm Eric Martinez</h1>
 
 ###
 
